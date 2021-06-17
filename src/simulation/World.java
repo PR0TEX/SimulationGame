@@ -13,7 +13,6 @@ import java.util.List;
 import java.util.Random;
 
 public class World {
-    private int goal;
     private int height;
     private int width;
     private String raport;
@@ -24,7 +23,6 @@ public class World {
     JFrame frame;
     public World(){}
     public World(int _width, int _height){
-        goal=6;
         this.width=_width;
         this.height=_height;
         world = new Organism[height][width];
