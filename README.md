@@ -4,4 +4,4 @@ Simualtion game is about moving human and dealing with dangerous organisms. Orga
 
 # Information
 
-Java languague and based on SWING framework
+Java language and based on SWING framework
